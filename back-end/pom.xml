@@ -78,6 +78,13 @@
 			<artifactId>spring-security-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<dependency>
+			<groupId>com.reddit-clone</groupId>
+			<artifactId>front-end</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+			<scope>runtime</scope>
+		</dependency>
 	</dependencies>
 
 	<build>
