@@ -11,7 +11,7 @@
 
   <artifactId>front-end</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>reddit clone</name>
+  <name>Front End (Angular 10)</name>
   <description>
     Reddit clone using Spring Boot, MVC, Security with JWT authentication, Data JPA with Postgresql and Angular 10
   </description>
