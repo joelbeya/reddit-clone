@@ -1,4 +1,4 @@
-package repository;
+package com.redditclone.backend.repository;
 
 import com.redditclone.backend.model.Post;
 import com.redditclone.backend.model.User;

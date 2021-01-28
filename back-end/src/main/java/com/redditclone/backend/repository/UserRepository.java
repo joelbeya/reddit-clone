@@ -1,4 +1,4 @@
-package repository;
+package com.redditclone.backend.repository;
 
 import com.redditclone.backend.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
