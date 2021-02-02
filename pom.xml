@@ -15,7 +15,7 @@
     <artifactId>reddit-clone</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
-    <name>reddit clone (Bent</name>
+    <name>reddit clone (Bent)</name>
     <description>
         Reddit clone using Spring Boot, MVC, Security with JWT authentication, Data JPA with Postgresql and Angular 10
     </description>
